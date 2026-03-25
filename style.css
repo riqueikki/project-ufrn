@@ -2,5 +2,17 @@ body {
     background-color: black;
     font-size: large;
     font-family: Georgia;
-    font-color: white;
+    flood-color: white;
+}
+
+
+p {
+    color: white;
+    text-align: center;
+}
+
+
+title {
+    color: white;
+    text-align: center;
 }
